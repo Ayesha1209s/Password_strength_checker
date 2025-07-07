@@ -1,4 +1,4 @@
-
+#PRODIGY_cs_03
 # 🔐 Password Strength Checker
 This is a simple Python-based Password Strength Checker Tool that evaluates the strength of a password based on various criteria like:
 
